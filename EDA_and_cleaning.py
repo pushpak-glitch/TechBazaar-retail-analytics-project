@@ -186,7 +186,4 @@ print(yoy_summary.to_string())
 
 # save CSV
 
-yoy_summary.to_csv("../analysis_output/yoy_summary.csv")
-
-print("\nSaari charts analysis_output/ mein save ho gayi hain.")
-print("Cleaned data data/sales_cleaned.csv mein save ho gaya hai.")
+yoy_summary.to_csv("/analysis_output/yoy_summary.csv")
