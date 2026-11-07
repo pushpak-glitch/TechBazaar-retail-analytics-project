@@ -1,4 +1,4 @@
-order_id,date,customer_id,city,category,product_name,quantity,base_price,discount_pct,unit_price,total_amount,cost_price,profit,payment_mode,year,month,month_name,profit_margin_pct
+Order Id,Date,Customer Id,City,Category,Product Name,Quantity,Base Price,Discount Pct,Unit Price,Total Amount,Cost Price,Profit,Payment Mode,Year,Month,Month Name,Profit Margin Pct
 ORD1000,2022-01-01,CUST9322,Bangalore,Televisions,"Vu Premium 55""",1,44999,0,44999.0,39425.27,31499.3,13499.7,Cash,2022,1,Jan,34.24
 ORD1001,2022-01-01,CUST4385,Delhi,Laptops,Lenovo IdeaPad,2,45999,0,45999.0,104186.44,32199.3,27599.4,Debit Card,2022,1,Jan,26.49
 ORD1002,2022-01-01,CUST1189,Mumbai,Accessories,boAt Airdopes 141,1,1299,10,1169.1,1143.81,909.3,259.8,UPI,2022,1,Jan,22.71

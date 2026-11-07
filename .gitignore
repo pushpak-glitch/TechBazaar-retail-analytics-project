@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+# OS
+.DS_Store
+__MACOSX/
+# Generated database (rebuilt by src/load_and_query_sql.py)
+*.db
+*.sqlite
+# Excel / Power BI temp files
+~$*.xlsx
+*.pbix.bak
