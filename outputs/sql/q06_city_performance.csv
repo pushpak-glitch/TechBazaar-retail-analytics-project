@@ -1,0 +1,6 @@
+city,orders,customers,billed_revenue_cr,revenue_share_pct,avg_order_value,margin_pct,yoy_growth_pct
+Delhi,10740,6286,54.96,28.1,51174.0,24.67,6.7
+Mumbai,9590,5888,48.65,24.9,50735.0,24.57,-2.1
+Bangalore,8492,5496,43.36,22.2,51059.0,24.55,3.8
+Chennai,5382,4045,27.4,14.0,50906.0,24.5,4.4
+Kolkata,4154,3363,21.08,10.8,50756.0,24.62,1.7

@@ -1,0 +1,11 @@
+overall_rank,product_name,category,rank_in_category,units,billed_revenue_cr,revenue_share_pct,profit_cr,margin_pct
+1,"LG 55"" OLED",Televisions,1,1725,23.17,11.9,5.28,24.47
+2,MacBook Air M2,Laptops,1,1796,20.59,10.5,4.75,24.71
+3,iPhone 14,Smartphones,1,1721,14.02,7.2,3.18,24.8
+4,Samsung Galaxy S23,Smartphones,2,1767,13.51,6.9,3.02,24.56
+5,"Sony Bravia 50""",Televisions,2,1723,12.84,6.6,2.94,24.52
+6,HP Pavilion,Laptops,2,1678,10.46,5.4,2.39,24.41
+7,OnePlus 11,Smartphones,3,1724,10.06,5.1,2.27,24.85
+8,Dell Inspiron 15,Laptops,3,1737,9.52,4.9,2.19,24.64
+9,Samsung Tab S8,Tablets,1,1786,9.49,4.9,2.13,24.36
+10,Asus VivoBook,Laptops,4,1710,8.51,4.4,1.96,24.68

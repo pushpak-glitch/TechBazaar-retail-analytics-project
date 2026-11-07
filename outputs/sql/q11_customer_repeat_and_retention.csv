@@ -1,0 +1,11 @@
+metric,value
+customers,8880.0
+repeat customers (2+ orders),8326.0
+repeat rate %,93.8
+customers with 1 order,554.0
+customers with 2-4 orders,4485.0
+customers with 5-7 orders,3258.0
+customers with 8+ orders,583.0
+avg orders per customer,4.32
+2022 customers retained in 2023 %,88.3
+new customers in 2023 (not seen in 2022),965.0

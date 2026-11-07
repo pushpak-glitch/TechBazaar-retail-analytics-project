@@ -1,0 +1,11 @@
+rank,customer_id,orders,cities,first_order,last_order,billed_revenue_lakh,profit_lakh,revenue_share_pct,top10pct_customers_revenue_share
+1,CUST4206,6,"Bangalore,Mumbai,Chennai,Delhi",2022-06-17,2023-10-25,11.6,2.18,0.059,23.3
+2,CUST7477,10,"Mumbai,Bangalore,Chennai,Kolkata,Delhi",2022-04-11,2023-12-19,11.48,2.14,0.059,23.3
+3,CUST6417,9,"Chennai,Bangalore,Mumbai",2022-02-23,2023-11-30,9.83,1.75,0.05,23.3
+4,CUST6723,12,"Mumbai,Kolkata,Delhi,Chennai,Bangalore",2022-01-28,2023-11-19,9.38,1.87,0.048,23.3
+5,CUST8739,7,"Delhi,Bangalore",2022-04-30,2023-09-26,9.08,2.28,0.046,23.3
+6,CUST5375,10,"Chennai,Bangalore,Delhi,Kolkata,Mumbai",2022-02-25,2023-06-27,8.84,2.16,0.045,23.3
+7,CUST2774,9,"Kolkata,Bangalore,Delhi,Mumbai,Chennai",2022-01-27,2023-12-14,8.82,2.28,0.045,23.3
+8,CUST9753,10,"Mumbai,Chennai,Delhi,Kolkata,Bangalore",2022-04-22,2023-07-25,8.77,2.13,0.045,23.3
+9,CUST3748,7,"Chennai,Delhi,Bangalore",2022-04-28,2023-04-24,8.72,1.62,0.045,23.3
+10,CUST5640,14,"Mumbai,Delhi,Bangalore,Chennai,Kolkata",2022-01-18,2023-12-26,8.55,1.66,0.044,23.3

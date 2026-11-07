@@ -1,0 +1,6 @@
+payment_mode,orders,order_share_pct,avg_order_value,avg_units_per_order,big_ticket_order_pct
+UPI,13436,35.0,49983.0,1.128,39.3
+Credit Card,9625,25.1,52057.0,1.139,40.2
+Debit Card,7611,19.8,50760.0,1.127,39.9
+Cash,4604,12.0,50796.0,1.135,39.9
+EMI,3082,8.0,52482.0,1.131,41.1
