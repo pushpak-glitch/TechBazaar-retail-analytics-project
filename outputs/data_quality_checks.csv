@@ -1,0 +1,13 @@
+rule,rows_failing,pct_failing,note
+no missing values,0,0.0,
+order_id unique,0,0.0,
+no fully duplicated rows,0,0.0,
+quantity >= 1,0,0.0,"values seen: [1, 2, 3]"
+unit_price = base_price x (1 - discount_pct/100),0,0.0,
+cost_price = 70% of base_price,0,0.0,every product costs exactly 70% of list price -> dataset is very likely synthetic
+profit = (unit_price - cost_price) x quantity,0,0.0,
+total_amount = quantity x unit_price (within 1%),33689,87.83,ratio range 0.776-1.648; follows a month-of-year pattern (see billing_ratio_by_month.csv)
+profit_margin_pct = profit / total_amount x 100,0,0.0,"the supplied margin mixes two bases: profit is on qty x unit_price, the divisor is total_amount"
+total_amount >= quantity x cost_price,147,0.38,rows billed below cost although recorded profit is positive
+year / month match date,0,0.0,
+profit >= 0,0,0.0,

@@ -1,0 +1,3 @@
+year,orders,customers,billed_revenue,net_sales,profit,avg_order_value,margin_pct_on_net_sales,orders_yoy_pct,billed_revenue_yoy_pct,net_sales_yoy_pct,profit_yoy_pct,avg_order_value_yoy_pct
+2022,19017,7915,963070804.82,893139311.25,220048477.45,50642.63,24.64,,,,,
+2023,19341,7956,991496281.08,916033259.05,224790760.95,51263.96,24.54,1.7,2.95,2.56,2.16,1.23
